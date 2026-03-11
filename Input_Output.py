@@ -12,3 +12,4 @@ print(type(res))  # output  """
 name = input("Enter your name: ")
 age = int(input("Enter your age: "))
 print("Hi,"+ name + " ! Your age is: ", age)
+
